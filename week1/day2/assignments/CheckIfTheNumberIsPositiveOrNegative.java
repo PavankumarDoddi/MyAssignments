@@ -6,11 +6,11 @@ public class CheckIfTheNumberIsPositiveOrNegative {
 		// TODO Auto-generated method stub
           int num = a;
           
-          if (a>0)
+          if (num>0)
           {
         	  System.out.println("The number provided is Positive:"+" "+num);
           }
-          else if(a==0)
+          else if(num==0)
           {
         	  System.out.println("The number provided is Zero:"+" "+num);
           }
